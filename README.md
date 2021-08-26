@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @neerajnps (.NET FRAMEWORK | C# | Jquery | JS | Web Development (HTML/CSS/JS) | AJAX | ADO.NET ) 
 - 👀 I’m interested in developing Web-Applications using DOT NET MVC 
 - 🌱 I’m currently learning JS Framework: React Js and then will go for REACT NATIVE :) 
-- 📫 Let's connected on LinkedIn: https://www.linkedin.com/in/neeraj-parkash-sharma/
+- 📫 Let's get connected on LinkedIn: https://www.linkedin.com/in/neeraj-parkash-sharma/
