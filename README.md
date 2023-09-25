@@ -23,8 +23,7 @@ Feel free to reach out to me to discuss technology, projects, or anything that i
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajparkashsharma)  
-[![Email](https://img.shields.io/badge/Email-%23FF0000.svg?logo=Email)](mailto:neerajparkashsharma@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajparkashsharma) 
 
 
 # 💻 Tech Stack:
