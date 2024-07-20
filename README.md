@@ -2,7 +2,7 @@
 
 👋 Hello
 
-👨‍💻  - I'm a passionate and experienced full-stack Java developer with over 1 year of professional work experience in building robust systems. 
+👨‍💻  - I'm a passionate and experienced full-stack Java developer with over 2 years of professional work experience in building robust systems. 
 
 Here's a glimpse of my skills and expertise:
  
